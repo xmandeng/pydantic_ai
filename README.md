@@ -1,6 +1,6 @@
 # Pydantic AI Workflow
 
-A Python project for AI workflows using Pydantic.
+I am kicking the tires on Pydantics new agentic AI package.
 
 ## Installation
 
